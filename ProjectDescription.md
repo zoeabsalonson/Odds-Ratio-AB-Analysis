@@ -23,11 +23,11 @@ Key Findings:
   values approach extremes. The tests converged as p1 values approached 1 when n1 (sample size of group 1)
   was significantly larger than n2 (sample size of group 2), and converged when p1 values approached 0 when n2 was
   significantly larger than n1.
-<img width="542" height="221" alt="image" src="https://github.com/user-attachments/assets/ccdd96c3-fbf5-4a36-b165-955220130124" />
+  <img width="542" height="221" alt="image" src="https://github.com/user-attachments/assets/ccdd96c3-fbf5-4a36-b165-955220130124" />
 * Downward trends showing high to low empirical coverage rates as p1 values increase. Concave and convex parabolic
   (symmetrical) results, which were even on both tails but with empirical coverage rates straying
   lower/higher, respectively, were common for odds ratios closer to 1 and similar sample sizes.
-<img width="238" height="221" alt="image" src="https://github.com/user-attachments/assets/bf3c6282-7767-4b43-bd46-366ae3ea9cce" />
+  <img width="238" height="221" alt="image" src="https://github.com/user-attachments/assets/bf3c6282-7767-4b43-bd46-366ae3ea9cce" />
 * Extremely high empirical coverage rates, which then dropped drastically, when OR was high (over 10), n1 was small (3, 10, 20),
   and n2 was moderately sized (30, 35, 75)
-<img width="238" height="221" alt="image" src="https://github.com/user-attachments/assets/80dbe69a-44d1-42bc-94a5-9932f2ef0ffa" />
+  <img width="238" height="221" alt="image" src="https://github.com/user-attachments/assets/80dbe69a-44d1-42bc-94a5-9932f2ef0ffa" />
